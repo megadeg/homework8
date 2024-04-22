@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4748d592.css",
+    "main.js": "/static/js/main.a29d21dd.js",
+    "static/media/bees.jpg": "/static/media/bees.545c1080208c6c1cd6c0.jpg",
+    "static/media/butterflies.jpg": "/static/media/butterflies.c69f38a090cb98cd3fd5.jpg",
+    "static/media/ladybugs.jpg": "/static/media/ladybugs.9ca3dcdfb9e4cecd234b.jpg",
+    "index.html": "/index.html",
+    "main.4748d592.css.map": "/static/css/main.4748d592.css.map",
+    "main.a29d21dd.js.map": "/static/js/main.a29d21dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4748d592.css",
+    "static/js/main.a29d21dd.js"
+  ]
+}
